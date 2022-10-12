@@ -1,6 +1,5 @@
-package ch02;
-
 // Programa de impressão de texto.
+package ch02;
 
 public class Welcome1 {
 
