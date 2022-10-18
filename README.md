@@ -3,7 +3,7 @@
 ☕ For courses in Java programming Unparalleled breadth and depth of object-oriented programming concepts The Deitels' groundbreaking How to Program series offers unparalleled breadth and depth of programming fundamentals, object-oriented programming concepts and intermediate-level topics for further study.
 
 <p align="center">
-    <img src="" width="490">
+    <img src="https://github.com/willianlim/java_how_to_program/blob/master/img/java8.jpg" width="490">
 </p>
 
 ## 📥 Installation
